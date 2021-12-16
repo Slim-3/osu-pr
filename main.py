@@ -1,7 +1,7 @@
 #import JSON
 import challonge
 import consts
-
+import sqlite3
 
 
 def main():
@@ -18,6 +18,11 @@ def main():
 
          #print("Name:" + i["participant"]["name"] + "\t\t Final Rank: " + str(i["participant"]["final_rank"]))
     print("-" * len(tournament["name"]))
+
+
+def db():
+    conn = sqlite3.connect('results.db')
+
 if __name__ == '__main__':
     main()
-
+    db()
