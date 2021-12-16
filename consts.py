@@ -1,0 +1,2 @@
+CHALLONGE_KEY = ""
+USER_NAME = ""
