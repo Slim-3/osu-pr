@@ -1,9 +1,9 @@
 [{"Tournament":"Viva","TournamentID":161989,"Range":"80k-250k","Type":"1v1","Link":"/consequat.jpg","Data":{"$oid":"625860b4fc13ae38430002e5"}},
-{"Tournament":"Holdlamis","TournamentID":785230,"Range":"10k-100k","Type":"2v2","Link":"/tincidunt/eget/tempus/vel/pede.xml","Data":{"$oid":"625860b4fc13ae38430002e6"}},
+{"Tournament":"Holdlamis","TournamentID":785230,"Range":"10k-100k","Type":"1v1,"Link":"/tincidunt/eget/tempus/vel/pede.xml","Data":{"$oid":"625860b4fc13ae38430002e6"}},
 {"Tournament":"Konklux","TournamentID":899880,"Range":"30k-70k","Type":"1v1","Link":"/vel/ipsum/praesent/blandit/lacinia.js","Data":{"$oid":"625860b4fc13ae38430002e7"}},
-{"Tournament":"Namfix","TournamentID":885305,"Range":"50k-100k","Type":"3v3","Link":"/vivamus/metus.xml","Data":{"$oid":"625860b4fc13ae38430002e8"}},
+{"Tournament":"Namfix","TournamentID":885305,"Range":"50k-100k","Type":"1v1","Link":"/vivamus/metus.xml","Data":{"$oid":"625860b4fc13ae38430002e8"}},
 {"Tournament":"Domainer","TournamentID":368732,"Range":"50k-100k","Type":"1v1","Link":"/sapien/cum/sociis.aspx","Data":{"$oid":"625860b4fc13ae38430002e9"}},
-{"Tournament":"Lotstring","TournamentID":599783,"Range":"10k-100k","Type":"3v3","Link":"/penatibus/et.jpg","Data":{"$oid":"625860b4fc13ae38430002ea"}},
-{"Tournament":"Flowdesk","TournamentID":857599,"Range":"50k-100k","Type":"3v3","Link":"/venenatis.js","Data":{"$oid":"625860b4fc13ae38430002eb"}},
+{"Tournament":"Lotstring","TournamentID":599783,"Range":"10k-100k","Type":"1v1","Link":"/penatibus/et.jpg","Data":{"$oid":"625860b4fc13ae38430002ea"}},
+{"Tournament":"Flowdesk","TournamentID":857599,"Range":"50k-100k","Type":"1v1","Link":"/venenatis.js","Data":{"$oid":"625860b4fc13ae38430002eb"}},
 {"Tournament":"Lotstring","TournamentID":615613,"Range":"10k-100k","Type":"1v1","Link":"/orci/pede/venenatis.xml","Data":{"$oid":"625860b4fc13ae38430002ec"}},
-{"Tournament":"Lotstring","TournamentID":524694,"Range":"10k-100k","Type":"3v3","Link":"/neque/sapien/placerat/ante/nulla.jsp","Data":{"$oid":"625860b4fc13ae38430002ed"}}]
+{"Tournament":"Lotstring","TournamentID":524694,"Range":"10k-100k","Type":"1v1","Link":"/neque/sapien/placerat/ante/nulla.jsp","Data":{"$oid":"625860b4fc13ae38430002ed"}}]
